@@ -26,8 +26,11 @@ Our plan is to create an engraver that can convert stl file and engrave it on a 
 #### The Basin
 The basin is a 2ft by 1ft basin that accepted up to a 1x1 pice of metal. inside the basin there is a raised platform thatgoes off into vented holes. 
 #### The box
+The box cotains the Metro express and athoer controller items to make sure the negraver runs well
 #### Power input
+
 ### Coding
+We will be coding a system that turns Ai files into readable engraves. 
 ### Cost
 ### Reserch 
 
