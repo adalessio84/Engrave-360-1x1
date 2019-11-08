@@ -24,6 +24,7 @@ Our plan is to create an engraver that can convert stl file and engrave it on a 
 ### Parts
 #### The cam
 #### The Basin
+The basin is a 2ft by 1ft basin that accepted up to a 1x1 pice of metal. inside the basin there is a raised platform thatgoes off into vented holes. 
 #### The box
 #### Power input
 ### Coding
